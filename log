@@ -1,0 +1,6 @@
+Mon, Apr 14, 2025  8:07:31 PM: 
+ hashmap.c | 126 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 124 insertions(+), 2 deletions(-)
+ tests:  17|0
+total_score: 70/70
+eeef3b7
